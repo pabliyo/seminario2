@@ -1,0 +1,58 @@
+[0m[[0m[0mdebug[0m] [0m[0mFull compilation, no sources in previous analysis.[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll sources are invalidated.[0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all 5 sources: invalidated sources (5) exceeded 50.0% of all sources[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 5 Scala sources to /home/pablo/scala/seminario2/seminario2/target/scala-2.13/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.2.5:compile for Scala 2.13.0[0m
+[0m[[0m[0minfo[0m] [0m[0mNon-compiled module 'compiler-bridge_2.13' for Scala 2.13.0. Compiling...[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating plain compiler interface for 2.13.0.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  > Arguments: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	-nowarn[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-d[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_119a4c2f[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/usr/lib/jvm/jdk1.8.0_112/jre/lib/resources.jar:/usr/lib/jvm/jdk1.8.0_112/jre/lib/rt.jar:/usr/lib/jvm/jdk1.8.0_112/jre/lib/sunrsasign.jar:/usr/lib/jvm/jdk1.8.0_112/jre/lib/jsse.jar:/usr/lib/jvm/jdk1.8.0_112/jre/lib/jce.jar:/usr/lib/jvm/jdk1.8.0_112/jre/lib/charsets.jar:/usr/lib/jvm/jdk1.8.0_112/jre/lib/jfr.jar:/usr/lib/jvm/jdk1.8.0_112/jre/classes:/home/pablo/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.13.0.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_66fe56ec/jars/org.scala-sbt/compiler-interface/compiler-interface-1.2.5.jar:/tmp/sbt_66fe56ec/jars/org.scala-sbt/util-interface/util-interface-1.2.2.jar:/tmp/sbt_66fe56ec/srcs/org.scala-sbt/compiler-bridge_2.13/compiler-bridge_2.13-1.2.5-sources.jar:/home/pablo/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.13.0.jar:/home/pablo/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.13.0.jar:/home/pablo/.ivy2/cache/jline/jline/jars/jline-2.14.6.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_24d26fb3/xsbt/API.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_24d26fb3/xsbt/Analyzer.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_24d26fb3/xsbt/CallbackGlobal.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_24d26fb3/xsbt/ClassName.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_24d26fb3/xsbt/Command.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_24d26fb3/xsbt/Compat.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_24d26fb3/xsbt/CompilerInterface.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_24d26fb3/xsbt/ConsoleInterface.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_24d26fb3/xsbt/DelegatingReporter.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_24d26fb3/xsbt/Dependency.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_24d26fb3/xsbt/ExtractAPI.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_24d26fb3/xsbt/ExtractUsedNames.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_24d26fb3/xsbt/GlobalHelpers.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_24d26fb3/xsbt/InteractiveConsoleFactory.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_24d26fb3/xsbt/InteractiveConsoleHelper.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_24d26fb3/xsbt/InteractiveConsoleInterface.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_24d26fb3/xsbt/InteractiveConsoleResponse.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_24d26fb3/xsbt/JavaUtils.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_24d26fb3/xsbt/LocalToNonLocalClass.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_24d26fb3/xsbt/LocateClassFile.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_24d26fb3/xsbt/Log.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_24d26fb3/xsbt/Message.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/tmp/sbt_24d26fb3/xsbt/ScaladocInterface.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m      [0m
+[0m[[0m[0minfo[0m] [0m[0m  Compilation completed in 35.154s.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.2.5:compile for Scala 2.13.0[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 4eb544f5 for Scala compiler version 2.13.0[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-deprecation[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-encoding[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UTF-8[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-language:higherKinds[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-language:postfixOps[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-feature[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Xfatal-warnings[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Xplugin:/home/pablo/.ivy2/cache/org.typelevel/kind-projector_2.13/jars/kind-projector_2.13-0.10.3.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Xplugin:/home/pablo/.ivy2/cache/com.olegpy/better-monadic-for_2.13/jars/better-monadic-for_2.13-0.3.0.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/usr/lib/jvm/jdk1.8.0_112/jre/lib/resources.jar:/usr/lib/jvm/jdk1.8.0_112/jre/lib/rt.jar:/usr/lib/jvm/jdk1.8.0_112/jre/lib/sunrsasign.jar:/usr/lib/jvm/jdk1.8.0_112/jre/lib/jsse.jar:/usr/lib/jvm/jdk1.8.0_112/jre/lib/jce.jar:/usr/lib/jvm/jdk1.8.0_112/jre/lib/charsets.jar:/usr/lib/jvm/jdk1.8.0_112/jre/lib/jfr.jar:/usr/lib/jvm/jdk1.8.0_112/jre/classes:/home/pablo/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.13.0.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/pablo/scala/seminario2/seminario2/target/scala-2.13/classes:/home/pablo/.ivy2/cache/org.http4s/http4s-blaze-server_2.13/jars/http4s-blaze-server_2.13-0.21.0-M3.jar:/home/pablo/.ivy2/cache/org.http4s/http4s-blaze-core_2.13/jars/http4s-blaze-core_2.13-0.21.0-M3.jar:/home/pablo/.ivy2/cache/org.http4s/http4s-core_2.13/jars/http4s-core_2.13-0.21.0-M3.jar:/home/pablo/.ivy2/cache/org.typelevel/cats-core_2.13/jars/cats-core_2.13-2.0.0-M4.jar:/home/pablo/.ivy2/cache/org.typelevel/cats-macros_2.13/jars/cats-macros_2.13-2.0.0-M4.jar:/home/pablo/.ivy2/cache/org.typelevel/machinist_2.13/jars/machinist_2.13-0.6.8.jar:/home/pablo/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.13.0.jar:/home/pablo/.ivy2/cache/org.typelevel/cats-kernel_2.13/jars/cats-kernel_2.13-2.0.0-M4.jar:/home/pablo/.ivy2/cache/org.typelevel/cats-effect_2.13/jars/cats-effect_2.13-2.0.0-M5.jar:/home/pablo/.ivy2/cache/co.fs2/fs2-io_2.13/jars/fs2-io_2.13-1.1.0-M1.jar:/home/pablo/.ivy2/cache/co.fs2/fs2-core_2.13/jars/fs2-core_2.13-1.1.0-M1.jar:/home/pablo/.ivy2/cache/org.scodec/scodec-bits_2.13/jars/scodec-bits_2.13-1.1.12.jar:/home/pablo/.ivy2/cache/org.log4s/log4s_2.13/jars/log4s_2.13-1.8.2.jar:/home/pablo/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.25.jar:/home/pablo/.ivy2/cache/org.http4s/parboiled_2.13/jars/parboiled_2.13-2.0.1.jar:/home/pablo/.ivy2/cache/io.chrisdavenport/vault_2.13/jars/vault_2.13-2.0.0-M2.jar:/home/pablo/.ivy2/cache/io.chrisdavenport/unique_2.13/jars/unique_2.13-2.0.0-M2.jar:/home/pablo/.ivy2/cache/org.http4s/blaze-http_2.13/jars/blaze-http_2.13-0.14.8.jar:/home/pablo/.ivy2/cache/org.http4s/blaze-core_2.13/jars/blaze-core_2.13-0.14.8.jar:/home/pablo/.ivy2/cache/com.twitter/hpack/jars/hpack-1.0.2.jar:/home/pablo/.ivy2/cache/org.eclipse.jetty.alpn/alpn-api/jars/alpn-api-1.1.3.v20160715.jar:/home/pablo/.ivy2/cache/org.http4s/http4s-server_2.13/jars/http4s-server_2.13-0.21.0-M3.jar:/home/pablo/.ivy2/cache/org.http4s/http4s-blaze-client_2.13/jars/http4s-blaze-client_2.13-0.21.0-M3.jar:/home/pablo/.ivy2/cache/org.http4s/http4s-client_2.13/jars/http4s-client_2.13-0.21.0-M3.jar:/home/pablo/.ivy2/cache/org.http4s/http4s-circe_2.13/jars/http4s-circe_2.13-0.21.0-M3.jar:/home/pablo/.ivy2/cache/org.http4s/http4s-jawn_2.13/jars/http4s-jawn_2.13-0.21.0-M3.jar:/home/pablo/.ivy2/cache/org.http4s/jawn-fs2_2.13/jars/jawn-fs2_2.13-0.15.0-M1.jar:/home/pablo/.ivy2/cache/org.typelevel/jawn-parser_2.13/jars/jawn-parser_2.13-0.14.2.jar:/home/pablo/.ivy2/cache/io.circe/circe-jawn_2.13/jars/circe-jawn_2.13-0.12.0-M4.jar:/home/pablo/.ivy2/cache/io.circe/circe-core_2.13/jars/circe-core_2.13-0.12.0-M4.jar:/home/pablo/.ivy2/cache/io.circe/circe-numbers_2.13/jars/circe-numbers_2.13-0.12.0-M4.jar:/home/pablo/.ivy2/cache/org.http4s/http4s-dsl_2.13/jars/http4s-dsl_2.13-0.21.0-M3.jar:/home/pablo/.ivy2/cache/io.circe/circe-generic_2.13/jars/circe-generic_2.13-0.12.0-M4.jar:/home/pablo/.ivy2/cache/com.chuusai/shapeless_2.13/bundles/shapeless_2.13-2.3.3.jar:/home/pablo/.ivy2/cache/ch.qos.logback/logback-classic/jars/logback-classic-1.2.3.jar:/home/pablo/.ivy2/cache/ch.qos.logback/logback-core/jars/logback-core-1.2.3.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 51.272225465 s[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m

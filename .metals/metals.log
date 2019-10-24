@@ -1,0 +1,102 @@
+INFO  time: initialize in 0.86s
+WARN  no build tool detected in workspace '/home/pablo/scala/seminario2'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/build.sbt
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/build.sbt
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/project/plugins.sbt
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/src/main/scala/io/github/pabliyo/serverApp/Main.scala
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/src/main/scala/io/github/pabliyo/serverApp/ServerappRoutes.scala
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/src/main/scala/io/github/pabliyo/serverApp/ServerappServer.scala
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/src/main/scala/io/github/pabliyo/serverApp/Main.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/src/main/scala/io/github/pabliyo/serverApp/ServerappServer.scala
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/src/main/scala/io/github/pabliyo/serverApp/ServerappRoutes.scala
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/src/main/scala/io/github/pabliyo/serverApp/ServerappServer.scala
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/src/main/scala/io/github/pabliyo/serverApp/ServerappRoutes.scala
+oct 01, 2019 3:02:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 103
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/src/main/scala/io/github/pabliyo/serverApp/ServerappServer.scala
+oct 01, 2019 3:02:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 120
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/src/main/scala/io/github/pabliyo/serverApp/Jokes.scala
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/src/main/scala/io/github/pabliyo/serverApp/HelloWorld.scala
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/src/main/scala/io/github/pabliyo/serverApp/Main.scala
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/src/main/scala/io/github/pabliyo/serverApp/ServerappRoutes.scala
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/src/main/scala/io/github/pabliyo/serverApp/ServerappServer.scala
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/src/main/scala/io/github/pabliyo/serverApp/HelloWorld.scala
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/src/main/scala/io/github/pabliyo/serverApp/Jokes.scala
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/project/plugins.sbt
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/build.sbt
+oct 01, 2019 3:14:53 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTraceNotification
+oct 01, 2019 3:14:55 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTraceNotification
+INFO  shutting down Metals
+INFO  time: initialize in 2.81s
+WARN  no build tool detected in workspace '/home/pablo/scala/seminario2'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/src/main/scala/io/github/pabliyo/serverApp/HelloWorld.scala
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/src/main/scala/io/github/pabliyo/serverApp/Main.scala
+INFO  no build target: using presentation compiler with only scala-library
+INFO  shutting down Metals
+INFO  time: initialize in 1.18s
+WARN  no build tool detected in workspace '/home/pablo/scala/seminario2'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/src/main/scala/io/github/pabliyo/serverApp/Main.scala
+INFO  shutting down Metals
+INFO  time: initialize in 2.05s
+WARN  no build tool detected in workspace '/home/pablo/scala/seminario2'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/build.sbt
+oct 01, 2019 3:43:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/project/plugins.sbt
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/src/main/scala/com/example/serverapp/Main.scala
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/build.sbt
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/build.sbt
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/project/plugins.sbt
+INFO  shutting down Metals
+INFO  time: initialize in 1.38s
+WARN  no build tool detected in workspace '/home/pablo/scala/seminario2'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/build.sbt
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/project/plugins.sbt
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/src/main/scala/com/example/serverapp/Main.scala
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/src/main/scala/com/example/serverapp/ServerappServer.scala
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/src/main/scala/com/example/serverapp/ServerappRoutes.scala
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/src/main/scala/com/example/serverapp/HelloWorld.scala
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/src/main/scala/com/example/serverapp/Main.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/src/main/scala/com/example/serverapp/Main.scala
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/src/main/scala/com/example/serverapp/Main.scala
+something's wrong: no file:///home/pablo/scala/seminario2/serverapp/src/main/scala/com/example/serverapp/Main.scala in List[String]RangePosition(file:///home/pablo/scala/seminario2/serverapp/src/main/scala/com/example/serverapp/Main.scala, 143, 143, 155)
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/src/main/scala/com/example/serverapp/ServerappRoutes.scala
+WARN  no build tool detected in workspace '/home/pablo/scala/seminario2'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/pablo/scala/seminario2'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/src/main/scala/com/example/serverapp/Main.scala
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/src/main/scala/com/example/serverapp/HelloWorld.scala
+INFO  shutting down Metals
+INFO  time: initialize in 1.59s
+WARN  no build tool detected in workspace '/home/pablo/scala/seminario2'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/src/main/scala/com/example/serverapp/Main.scala
+oct 23, 2019 10:42:58 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTraceNotification
+INFO  shutting down Metals
+INFO  time: initialize in 1.93s
+WARN  no build tool detected in workspace '/home/pablo/scala/seminario2'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/src/main/scala/com/example/serverapp/Main.scala
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/src/main/scala/com/example/serverapp/HelloWorld.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/build.sbt
+INFO  shutting down Metals
+INFO  time: initialize in 1.16s
+WARN  no build tool detected in workspace '/home/pablo/scala/seminario2'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/src/main/scala/com/example/serverapp/Main.scala
+INFO  shutting down Metals
+INFO  time: initialize in 1.12s
+WARN  no build tool detected in workspace '/home/pablo/scala/seminario2'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/src/main/scala/com/example/serverapp/Main.scala
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/src/main/scala/com/example/serverapp/HelloWorld.scala
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/src/main/scala/com/example/serverapp/ServerappRoutes.scala
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/project/plugins.sbt
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/project/plugins.sbt
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/src/main/scala/com/example/serverapp/ServerappServer.scala
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/src/main/scala/com/example/serverapp/HelloWorld.scala
+WARN  no build target: /home/pablo/scala/seminario2/serverapp/src/main/scala/com/example/serverapp/Jokes.scala
+INFO  shutting down Metals
