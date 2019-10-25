@@ -1,13 +1,5 @@
 package com.example.seminario2
 
-import cats.effect.{ConcurrentEffect, ContextShift, Timer}
-import cats.implicits._
-import fs2.Stream
-import org.http4s.client.blaze.BlazeClientBuilder
-import org.http4s.implicits._
-import org.http4s.server.blaze.BlazeServerBuilder
-import org.http4s.server.middleware.Logger
-import fs2.Stream
 import scala.concurrent.ExecutionContext.global
 
 object Seminario2Server {
