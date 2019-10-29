@@ -1,4 +1,5 @@
 class Fila {
+  val hash: String //todo agregar metodo de hasheo
   val id: Int //ID
   val fecha: DateTime //FECHA
   val open: Int //Open
