@@ -1,11 +1,5 @@
 package com.example.seminario2
 
-import cats.Applicative
-import cats.implicits._
-import io.circe.{Encoder, Json}
-import org.http4s.EntityEncoder
-import org.http4s.circe._
-
 trait HelloWorld[F[_]]{
   def hello(n: HelloWorld.Name): F[HelloWorld.Greeting]
 }
